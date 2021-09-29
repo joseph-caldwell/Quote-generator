@@ -1,1 +1,1 @@
-﻿# Quote-generator made with CSS, HTML, &  JavaScript.
+﻿# Quote-generator made with CSS, HTML, animation &  JavaScript.
